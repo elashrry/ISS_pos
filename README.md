@@ -1,5 +1,4 @@
-# ISS_pos
-## Live Position of the International Space Station (ISS)
+# Live Position of the International Space Station (ISS)
 
 I saw this [video](https://www.youtube.com/watch?v=R6CCTuHast0) on Youtube and I thought it would be cool to have a live version of it. It did not meet my expectation as ISS take 93 mins to orbit around the Earth, but I learned something about Dash anyway. For the first few seconds, you will not see it as it is just a dot on the map, but then you will find its trajectory growing. Maybe, I can add more to it in the future.
 
